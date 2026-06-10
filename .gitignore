@@ -14,14 +14,13 @@ __pycache__/
 .vscode/
 
 # Models
-*.pkl
+
 
 # Streamlit cache
 .streamlit/
 
 # OS files
-.DS_Store
+.a
 Thumbs.db
 
 # Large datasets
-data/raw/*.csv
