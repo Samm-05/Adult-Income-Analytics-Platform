@@ -431,8 +431,8 @@ This project demonstrates:
 # 👨‍💻 Developed By
 
 **Samyak Prashant Mahatme**
-
-Machine Learning Engineer | Data Analyst | MERN Stack Developer
+---
+Machine Learning Intern | MERN Stack Developer
 
 ---
 
