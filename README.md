@@ -1,4 +1,19 @@
 # 🎓 Adult Income Analytics Platform
+---
+
+## 📌 Internship Project Report
+
+---
+
+## 👨‍💻 Intern Details
+
+* **Intern ID:** CITS2172
+* **Full Name:** Samyak Prashant Mahatme
+* **No. of Weeks:** 4 Weeks
+* **Project Name:** AI Customer Churn SaaS Analytics Platform
+* **Domain:** Machine Learning 
+
+---
 
 ## 📌 Project Overview
 
